@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/PortalTest.unity
-    guid: a2afaf43f84367a4db331073b2ce569d
+    path: Assets/Scenes/360PortalTest.unity
+    guid: beff3651335e8864bb98137cffcd9678
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 218dd83c88aafc840a2e4c7761deff19, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: cf54a6842a886754bb4345bd5728ac88, type: 2}
